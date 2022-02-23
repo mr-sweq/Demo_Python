@@ -1,6 +1,7 @@
 # Démo Python
 
 Bienvenu dans cette démonstration de python!
+Le but de cette démonstration est d'avoir une certaine façon de faire. La documentation sur Internet est souvent pour du Python pur, celle-ci, est plus axée sur la programmation avec des outils tel que VS Code et Anaconda.
 
 ## Prérequis
 - Anaconda
