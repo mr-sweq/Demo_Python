@@ -1,7 +1,9 @@
-Démo Python
+# Démo Python
 
 Bienvenu dans cette démonstration de python!
-Le but de cette démonstration est d'avoir une certaine façon de faire. La documentation sur Internet est souvent pour du Python pur, celle-ci, est plus axée sur la programmation avec des outils tel que VS Code et Anaconda.
+Le but de cette démonstration est d'avoir une certaine façon de faire pour travailler avec des algorithmes d'apprentissage automatique (Machine Learning). La documentation sur Internet est souvent pour des questions précises. Il manque souvent un pourquoi il faut faire ceci plutôt que celà. Ceci assume que les gens doivent avoir une connaissance à priori.
+
+La première portion est pour apprendre le python avec des outils pour les analystes en Python. Généralement, l'apprentissage de Python est fait pour du Python pur, celle-ci, est plus axée sur la programmation avec des outils tel que VS Code, Anaconda et des Jupyter Notebook. Sachez qu'il s'agit d'une façon de faire, il existe d'autre manière de faire. Elles ont leurs avantages et inconvénient.
 
 ## Prérequis
 - Anaconda
@@ -35,5 +37,8 @@ pip install ipykernel
 
 Maintenant, vous pouvez ouvrir VS Code.
 
-## Démonstration
+## Démonstration \#1
 Pour poursuivre la démonstration, je vous invite à ouvrir le notebook `demonstration-python-base.ipynb` avec VS Code et de suivre les étapes indiquées.
+
+## Démonstration \#2
+Maintenant que nous avons une base en python, il est temps de poursuivre avec la manipulation des données avec Numpy et Pandas. je vous invite à ouvrir le notebook `Initiation-ensemble-donnees.ipynb` avec VS Code et de suivre les étapes indiquées.
