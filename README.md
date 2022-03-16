@@ -38,7 +38,18 @@ pip install ipykernel
 Maintenant, vous pouvez ouvrir VS Code.
 
 ## Démonstration \#1
-Pour poursuivre la démonstration, je vous invite à ouvrir le notebook `demonstration-python-base.ipynb` avec VS Code et de suivre les étapes indiquées.
+Pour poursuivre la démonstration, je vous invite à ouvrir le notebook `01 Introduction Python/demonstration-python-base.ipynb` avec VS Code et de suivre les étapes indiquées.
+
+Le corrigé est disponible sous le même répertoire. Je vous invite fortement de faire des essais par vous même, oui c'est plus long, mais ceci vous restera plus facilement en mémoire que de simplement lire le solutionnaire.
 
 ## Démonstration \#2
-Maintenant que nous avons une base en python, il est temps de poursuivre avec la manipulation des données avec Numpy et Pandas. je vous invite à ouvrir le notebook `Initiation-ensemble-donnees.ipynb` avec VS Code et de suivre les étapes indiquées.
+Maintenant que nous avons une base en python, il est temps de poursuivre avec la manipulation des données avec Numpy et Pandas. je vous invite à ouvrir le notebook `02 Initiation ensemble de données/Initiation-ensemble-donnees.ipynb` avec VS Code et de suivre les étapes indiquées.
+
+## Démonstration \#3
+Enfin! Le vif du sujet! L'apprentissage machine! Je vous invite à ouvrir `03 Initiation apprentissage machine/Initiation-ML-Classique.ipynb` avec VS Code et de suivre les étapes indiquées.
+
+## Démonstration \#4
+Nous avons vu comment exécuté UN modèle d'apprentissage. Ceci peut être assez fastidieux... Avec cette démonstration, nous allons voir comment une des multiples technique peut nous aider à générer des modèles en rafale! Je vous invite à ouvrir `04 Initiation AutoML/Pycaret.ipynb` avec VS Code et de suivre les étapes indiquées. Amusez vous bien!
+
+# Conclusion
+Voilà! C'est terminé! J'espère que vous avez appris quelque chose. Si vous souhaitez en savoir plus, je vous invite à fouiller le site de Scikit-Learn, de rechercher les autoML, de regarder le site de Kaggle et même de pratiquer avec les diverses compétitions. Surtout, tenez-vous au courant, lisez et gardez la piqure!
