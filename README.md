@@ -48,8 +48,11 @@ Maintenant que nous avons une base en python, il est temps de poursuivre avec la
 ## Démonstration \#3
 Enfin! Le vif du sujet! L'apprentissage machine! Je vous invite à ouvrir `03 Initiation apprentissage machine/Initiation-ML-Classique.ipynb` avec VS Code et de suivre les étapes indiquées.
 
-## Démonstration \#4
+## Démonstration \#4.a
 Nous avons vu comment exécuté UN modèle d'apprentissage. Ceci peut être assez fastidieux... Avec cette démonstration, nous allons voir comment une des multiples technique peut nous aider à générer des modèles en rafale! Je vous invite à ouvrir `04 Initiation AutoML/Pycaret.ipynb` avec VS Code et de suivre les étapes indiquées. Amusez vous bien!
+
+## Démonstration \#4.b
+J'espère que vous vous êtes bien amusez avec Pycaret. Vous avez pu voir avec quelle facilité on peut générer de nouveau modèle. Cependant, certains l'auront déjà fait avec la démonstration \#3, il faut prendre des notes des expérimentations. Il faut garder une trace de toutes les expérimentations. Certes, les notes sur un papier, dans un bloc-note, dans une grille Excel, c'est bien, les garder dans une base de données, c'est excellent, mais il y a mieux! En effet, MLFlow est un des outils formidable pour prendre en note les expérimentations. Je vous invite à ouvrir `04 Initiation AutoML/Pycaret et MLFlow.ipynb` avec VS Code et de suivre les étapes indiquées.
 
 # Conclusion
 Voilà! C'est terminé! J'espère que vous avez appris quelque chose. Si vous souhaitez en savoir plus, je vous invite à fouiller le site de Scikit-Learn, de rechercher les autoML, de regarder le site de Kaggle et même de pratiquer avec les diverses compétitions. Surtout, tenez-vous au courant, lisez et gardez la piqure!
